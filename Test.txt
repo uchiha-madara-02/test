@@ -42,5 +42,8 @@ BRIGHTNESS_UP
 REM Mo CMD
 GUI R
 DELAY 800
-STRING https://www.youtube.com/watch?v=v1L5SdW_fJY
+STRING cmd
+ENTER
+DELAY 1000
+STRING start chrome "https://www.youtube.com/watch?v=v1L5SdW_fJY"
 ENTER
